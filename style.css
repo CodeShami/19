@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(grid_noise.png);
+}
+
+.container {
+  width: 50%;
+  margin: 100px auto 5px;
+  display: flexbox;
+}
+
+h1 {
+  margin-bottom: 10px;
+  color: darkolivegreen;
+}
+
+footer {
+  width: 0%;
+  margin: auto;
+  font-size: 14px;
+}
